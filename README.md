@@ -1,10 +1,10 @@
 # SecretSanta-API
 
-prerequisite :
+Prerequisite :
 -------------
 - Maven
 - Java 8
-- Mysql (Please check applcation.properties and replace spring.datasource.username and spring.datasource.password according to your local mysql credentials)
+- Mysql (Please check application.properties and replace spring.datasource.username and spring.datasource.password according to your local mysql credentials)
 
 Steps to run this project in local machine :
 --------------------------------------------
