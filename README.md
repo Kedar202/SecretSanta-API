@@ -12,3 +12,7 @@ Steps to run this project in local machine :
 - Open this project in any IDE (eclipse / STS)
 - Right click on the project -> Run As -> Maven Install
 - Run your project
+
+Note :
+------
+The default port for this project is localhost:9092 (Same api endpoint is given in SecretSanta-UI project so make sure to change there if you are changing the port here !)
